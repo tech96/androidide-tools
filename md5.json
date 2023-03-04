@@ -1,0 +1,38 @@
+{
+    "android_sdk": "ee664b3a73737a7420856c4c8641665a",
+    "cmdline_tools": "d8e2e08347533e8926bcc0414ec5b2c4",
+
+
+    "build_tools": {
+
+        "aarch64": {
+            "_33_0_3": "1a162016258518e2fa4b187f24c0ad8f",
+            "_33_0_1": "4e2931f1768112b302ab53674662ba04"
+        },
+
+        "arm" : {
+            "_33_0_3": "89100eaa3ead68f3d8ee364efc5abca0",
+            "_33_0_1": "b5da2c1f23f996c2ccaab43764e59063"
+        }
+    },
+
+
+    "platform_tools": {
+
+        "aarch64": {
+            "_33_0_3": "dc9a5123a9ee2613ed4ca0bae92526ed",
+            "_33_0_1": "f30340af39215d8cd52d91ce09c935e2"
+        },
+
+        "arm": {
+            "_33_0_3": "8da61973d782ecc21c69f8680bbc0a7b",
+            "_33_0_1": "7beed151646db0d9e83b4fc5eaa363f1"
+        }
+    },
+
+    
+    "jdk_11": {
+        "aarch64": "e6a59d7d100c3ec3c1d933e49c9e1e14",
+        "arm": "33e32356d883ddf42cdbd4c9ba4924d8"
+    }
+}
